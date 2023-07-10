@@ -1,4 +1,4 @@
-# AmplitudeFeatureLibrary
+# Amplitude Feature Library
 Simple C# library for retrieving Amplitude feature flags
 
 ### Usage
@@ -7,7 +7,7 @@ var amplitude = new AmplitudeFeature("Your_API_key");
 var enabled = amplitude.FeatureIsEnabled("the_flag_name");
 ```
 
-# Solution Information
+## Solution Information
 The Amplitude Feature Library solution contains the following 3 projects:
 
 ### Amplitude Library
